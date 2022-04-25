@@ -1,0 +1,19 @@
+1. git init
+Copied All the code in this repository
+2. git add .
+3. git commit -m "All previous codes"
+4. git branch
+(Shows only current branch ie MASTER)
+5. git branch newfeatures
+(creates a new branch called new features)
+6. git switch newfeatures
+7. touch newfeatures.txt
+(adding new file to branch)
+8. git add .
+9. git commit -m "added new features to new branch"
+10. git switch master
+(go back to master branch)
+11. git merge newfatures
+12. THIS MERGES THE UPDATES IN THE NEWFEATURES BRANCH IN MASTER BRANCH
+
+
